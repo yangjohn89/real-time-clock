@@ -1,0 +1,10 @@
+* {
+	background-color: #2626B3;
+}
+
+#currentTime {
+	font-family: 'Racing Sans One', cursive;
+	font-size: 200px;
+	color: white;
+	text-align: center;
+	margin: 20%;
